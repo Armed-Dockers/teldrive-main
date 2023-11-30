@@ -9,7 +9,7 @@ Telegram Drive is a powerful utility that enables you to create your own cloud s
 [Read Wiki for FAQ](https://github.com/divyam234/teldrive/wiki).
 
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Table of Contents</summary
   <ol>
     <li>
       <ul>
